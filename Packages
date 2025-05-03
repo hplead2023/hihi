@@ -1,0 +1,16 @@
+Package: com.hihi.autodenypermissions
+Version: 1.0.0-16+debug
+Architecture: iphoneos-arm
+Maintainer: Hihi
+Installed-Size: 144
+Depends: firmware (>= 15.0)
+Filename: debs/com.hihi.autodenypermissions_1.0.0-16+debug_iphoneos-arm.deb
+Size: 335096
+MD5sum: fbb8671138d8369b70d687c89a980921
+SHA1: 8046b1d47a5a6eacb84d7a75d053a3a2a6768c8d
+SHA256: 5608cd7946ee19732771ef4bf5b0c2d100ffe420f304268fc09f9daac071b843
+Section: Tweaks
+Description: Tweak tự động từ chối tất cả yêu cầu cấp quyền trên iOS 15
+Author: Hihi
+Name: AutoDenyPermissions
+
